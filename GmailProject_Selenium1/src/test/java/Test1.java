@@ -23,7 +23,7 @@ public class Test1 {
 					//action.dragAndDropBy(a, 400, 0).perform();
 					
 					action.dragAndDropBy(b, 400, 300).perform();
-		//welcome to java
+		//welcome to java testing for oull from github
 				}
 
 
